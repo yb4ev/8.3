@@ -25,11 +25,11 @@ main {
 
 body {
 	margin: 0;
-	--color-text: #d05400;
+	--color-text: #ed3d76;
     --color-bg: #0c0c0c;
     --color-link: #6b5537;
 	--color-link-hover: #fff;
-	--color-content-title-sub: #6b5537;
+	--color-content-title-sub: #e7d0f3;
     color: var(--color-text);
     background-color: var(--color-bg);
     --cursor-stroke: #6b5537;
